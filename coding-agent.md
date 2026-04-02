@@ -47,6 +47,11 @@ All outputs must be immediately usable without additional interpretation.
 
 All markdown file names must use uppercase names with the `.md` extension.
 
+All file references in documentation and code must use proper linking:
+- In markdown files, use relative links with proper file extensions (e.g., `[README](./README.md)`)
+- In code comments, use full relative paths from the project root
+- Ensure all file references are valid and navigable
+
 **README.md** must contain only:
 - Purpose of the project
 - High-level summary of what the system does
