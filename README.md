@@ -6,7 +6,7 @@ This repository contains custom instruction sets for AI tools used in my develop
 
 Provides standardized guidelines and conventions for two types of AI interactions:
 
-- **Requirements LLM** (ChatGPT or similar): Handles requirements gathering, analysis, and documentation through direct LLM conversation
+- **Requirements LLM** (ChatGPT): Handles requirements gathering, analysis, and documentation through direct LLM conversation
 - **Coding Agent** (Cline/Claude): Handles code implementation, testing, and technical execution through agentic workflows
 
 ## Overview
